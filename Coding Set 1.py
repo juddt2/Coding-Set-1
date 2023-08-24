@@ -54,9 +54,4 @@ print("This is now going to work:", 45)
 # Place Value: 32 16 8 4 2 1
 # State: 1 0 1 0 1 1
 # 32+8+2+1=43
-
-
-
-
-
-
+##
